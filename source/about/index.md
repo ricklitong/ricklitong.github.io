@@ -4,7 +4,7 @@ date: 2020-07-17 00:36:32
 layout: about
 ---
 
-你好，欢迎光顾我的博客。可以点击[此处](https://rickli.oss-cn-shanghai.aliyuncs.com/file/%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86-%E6%9D%8E%E5%BD%A4.pdf)浏览我的简历。
+你好，欢迎光顾我的博客。可以点击[此处](https://rickli.oss-cn-shanghai.aliyuncs.com/file/%E4%B8%AD%E8%8B%B1%E6%96%87%E7%AE%80%E5%8E%86-%E6%9D%8E%E5%BD%A4.pdf)浏览我的简历。
 
 我的博客是从2020年7月开始陆续更新的，内容包括**数据科学、NLP和量化投资**，最近的工作重心在于之前一些项目的更新和展示。
 
