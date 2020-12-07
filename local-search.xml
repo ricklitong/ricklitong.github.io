@@ -8,12 +8,14 @@
     <link href="/2020/12/07/%E3%80%90%E9%87%8F%E5%8C%96%E8%AE%BA%E6%96%87%E3%80%91Index%20tracking%20based%20on%20deep%20neural%20network/"/>
     <url>/2020/12/07/%E3%80%90%E9%87%8F%E5%8C%96%E8%AE%BA%E6%96%87%E3%80%91Index%20tracking%20based%20on%20deep%20neural%20network/</url>
     
-    <content type="html"><![CDATA[<p>摘要：Deep learning has a strong ability to extract feature representations from data, since it has a great advantage in processing nonlinear and non-stationary data and reﬂecting nonlinear interactive relationship. This paper proposes to apply deep learning algorithms including deep neural network and deep autoencoder to track index performance and introduces a dynamic weight calculation method to measure the direct eﬀects of the stocks on index. The empirical study takes historical data of Hang Seng Index (HSI) and its constituents to analyze the eﬀectiveness and practicability of the index tracking method. The results show that the index tracking method based on deep neural network has a smaller tracking error, and thus can eﬀectively track the index.</p><hr><h3 id="原文-amp-笔记"><a href="#原文-amp-笔记" class="headerlink" title="原文 &amp; 笔记"></a><a href="https://doi.org/10.1016/j.cogsys.2018.10.022" target="_blank" rel="noopener">原文</a> &amp; <a href="https://www.wolai.com/rJXAHxzJkMDDDkb89YGp9U?theme=light" target="_blank" rel="noopener">笔记</a></h3><p>Ouyang, H., Zhang, X., &amp; Yan, H. (2019). Index tracking based on deep neural network. Cognitive Systems Research, 57, 107–114. <a href="https://doi.org/10.1016/j.cogsys.2018.10.022" target="_blank" rel="noopener">https://doi.org/10.1016/j.cogsys.2018.10.022</a></p><h3 id=""><a href="#" class="headerlink" title=""></a></h3>]]></content>
+    <content type="html"><![CDATA[<p>摘要：Deep learning has a strong ability to extract feature representations from data, since it has a great advantage in processing nonlinear and non-stationary data and reﬂecting nonlinear interactive relationship. This paper proposes to apply deep learning algorithms including deep neural network and deep autoencoder to track index performance and introduces a dynamic weight calculation method to measure the direct eﬀects of the stocks on index. The empirical study takes historical data of Hang Seng Index (HSI) and its constituents to analyze the eﬀectiveness and practicability of the index tracking method. The results show that the index tracking method based on deep neural network has a smaller tracking error, and thus can eﬀectively track the index.</p><hr><h3 id="原文-amp-笔记"><a href="#原文-amp-笔记" class="headerlink" title="原文 &amp; 笔记"></a><a href="https://doi.org/10.1016/j.cogsys.2018.10.022" target="_blank" rel="noopener">原文</a> &amp; <a href="https://www.wolai.com/rJXAHxzJkMDDDkb89YGp9U?theme=light" target="_blank" rel="noopener">笔记</a></h3><p>Ouyang, H., Zhang, X., &amp; Yan, H. (2019). Index tracking based on deep neural network. Cognitive Systems Research, 57, 107–114. <a href="https://doi.org/10.1016/j.cogsys.2018.10.022" target="_blank" rel="noopener">https://doi.org/10.1016/j.cogsys.2018.10.022</a></p>]]></content>
     
     
     <categories>
       
       <category>量化投资</category>
+      
+      <category>论文分享</category>
       
     </categories>
     
@@ -25,8 +27,6 @@
       <tag>深度学习</tag>
       
       <tag>自编码器</tag>
-      
-      <tag>wolai摘要</tag>
       
     </tags>
     
